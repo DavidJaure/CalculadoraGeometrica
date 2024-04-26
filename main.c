@@ -48,7 +48,7 @@ if(opcion==1) {
 
         /* Calcular el área del trapezoide usando la fórmula área=1/2 x (base mayor +
         base menor) x altura*/
-        area = 0.5 * (base_mayor + base_menor) * altura;
+        area = 0.5 * (base_mayor + base_menor) * altura; //Se usa la multiplicacion de 0.5 como equivalente de dividir entre dos
 
         // Impresión del resultado al usuario
         printf("///////////////////////////////////////\n"
